@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:129 Testcase test_Credkart_login_002 is started
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:131 Opening browser and getting https://automation.credence.in/register
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:134 Generated fake data for username--> jessicadavis and email --> crystal28@example.com
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:138 Entering the Username--> jessicadavis
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:141 Entering the Email--> crystal28@example.com
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:144 Entering the Password
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:147 Entering the Confirm Password
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:150 Clicking on register button
+[32mINFO    [0m root:test_Credkart_User_Profile_001.py:161 User registration fail and taking screenshot
